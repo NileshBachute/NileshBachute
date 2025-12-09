@@ -74,19 +74,19 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsargar123&theme=tokyonight" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NileshBachute&theme=tokyonight" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulsargar123&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulsargar123&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NileshBachute&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NileshBachute&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 👁️ Profile Views  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rahulsargar123&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=NileshBachute&style=flat&color=blue" />
 </p>
 
 ---
