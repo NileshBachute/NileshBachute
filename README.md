@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 Learning **Java, MySQL & Backend Development**  
+- 🌱 Learning **Java, Python, MySQL, Frontend Development & Data Analytics**  
 - 💡 Passionate about building real-world applications  
 - 🎯 Final Goal → **Backend / Full Stack Developer**  
 - 🤝 Open for collaboration  
@@ -18,7 +18,7 @@
 
 ### 💻 Programming  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,python" height="45"/>
 </p>
 
 ### 🗄️ Databases  
